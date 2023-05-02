@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -24,8 +23,8 @@
 	</section>
 	<main>
 		<section class="product">
-			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 ">
-			<h3>Sản phẩm 1</h3>
+ 			<h3>Sản phẩm gundam</h3>              
+			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 "
 			<p>Giá: 100$</p>
 			<button>Mua hàng</button>
 		</section>
